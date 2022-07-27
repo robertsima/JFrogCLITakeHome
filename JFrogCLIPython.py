@@ -119,9 +119,9 @@ def delete_user():
 def update_repository():
     repoName = input("Enter the name of a repository you would like to update... \n")
     print("You entered "+ repoName)
-    repoclass = input("Enter the 'rclass'. HINT:'local'...")
-    description = input("Enter a description to update the repository with.")
-    notes = input("Enter some notes to update the repository with.")
+    repoclass = input("Enter the 'rclass'. HINT:'local'... \n")
+    description = input("Enter a description to update the repository with. \n")
+    notes = input("Enter some notes to update the repository with. \n")
     #converts to json obj from python obj below
     data = {
         "rclass" : repoclass,
