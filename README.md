@@ -3,7 +3,7 @@ This is my submission for my take-home jfrog asssignment.
 
 ## Requirements amd other information
 ### 1. Python 3.9.2 
-### 2. Pipe
+### 2. pip or conda
 ### 3. Conda environment (Preferred but not required)
 
 ## Instructions
