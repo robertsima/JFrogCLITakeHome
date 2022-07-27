@@ -8,6 +8,8 @@ This is my submission for my take-home jfrog asssignment.
 
 ## Instructions
 ### 1. Download python file and other requirements. 
+- pip install python
+- pip install requests
 ### 2. Execute python file by running "py JFrogCLIPython.py" in command line program. 
 ### 4. Enter username and password.
 Username: admin  
