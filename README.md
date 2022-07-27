@@ -14,7 +14,7 @@ Username: admin
 Password: password  
 ### 3. Perform commands as needed. List of available commands below. 
 
-##List of commands: 
+## List of commands: 
 - 'exit' ==> ends the session  
 - 'help' or '0' ==> prints a help string  
 - 'system ping' or '1' ==> get system ping from artifcatory  
